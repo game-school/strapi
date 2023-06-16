@@ -19,7 +19,7 @@
     "chokidar": "3.5.3",
     "ci-info": "3.8.0",
     "cli-table3": "^0.6.3",
-    "commander": "10.0.1",
+    "commander": "7.1.0",
     "configstore": "5.0.1",
     "cross-spawn": "^7.0.3",
     "debug": "^4.3.4",
